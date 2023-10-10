@@ -20,23 +20,14 @@
 }
 .container .box {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
+  width: ;
 }
-.img-box {
-  width: 40%;
-}
-.container .box .img-box img {
-  width: 100%;
-}
-ul {
-  /* width: 45%; */
+.container .box .img-box img{
+
 }
 .container .box ul li {
   margin-bottom: 42px;
-  /* margin-left: 187px; */
-  padding-right: 35px;
-  width: 100%;
+  margin-left: 187px;
   /* width: 659px; */
   height: 223px;
   list-style-type: none;
@@ -50,7 +41,7 @@ ul {
 }
 .container .box ul li div {
   display: flex;
-  justify-content: space-between;
+
   align-items: center;
 }
 .container .box ul li div h2 {

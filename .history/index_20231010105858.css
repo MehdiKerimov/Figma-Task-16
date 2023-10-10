@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600;700&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    min-height: 100vh;
+    padding: 72px 159px 52px 0px;
+}
+.container h1{
+    margin-bottom: 63px;
+    color: #000;
+text-align: center;
+font-family: Open Sans;
+font-size: 40px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+}
+.container .box{
+    display: flex;
+
+}
+.container .box ul li{
+    margin-bottom: 42px;
+    margin-left: 187px;
+    width: 659px;
+height: 223px;
+list-style-type: none;
+    border-radius: 15px;
+background: #FFF;
+box-shadow: 3px 3px 10px 0px rgba(0, 0, 0, 0.08);
+}
+.container .box ul li img {
+    width: 223px;
+height: 223px;
+}
+.container .box ul li div{
+    display: flex;
+
+    align-items: center;
+}
+.container .box ul li div h2{
+    margin-left: 49px;
+    margin-right: 49px;
+    color: #000;
+text-align: center;
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+.container .box ul li div p{
+    color: #000;
+font-family: Open Sans;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}

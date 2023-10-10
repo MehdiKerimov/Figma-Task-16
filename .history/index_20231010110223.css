@@ -20,24 +20,12 @@
 }
 .container .box {
   display: flex;
-  align-items: center;
-  justify-content: space-between;
 }
-.img-box {
-  width: 40%;
-}
-.container .box .img-box img {
-  width: 100%;
-}
-ul {
-  /* width: 45%; */
-}
+.container 
 .container .box ul li {
   margin-bottom: 42px;
-  /* margin-left: 187px; */
-  padding-right: 35px;
-  width: 100%;
-  /* width: 659px; */
+  margin-left: 187px;
+  width: 659px;
   height: 223px;
   list-style-type: none;
   border-radius: 15px;
@@ -50,7 +38,7 @@ ul {
 }
 .container .box ul li div {
   display: flex;
-  justify-content: space-between;
+
   align-items: center;
 }
 .container .box ul li div h2 {

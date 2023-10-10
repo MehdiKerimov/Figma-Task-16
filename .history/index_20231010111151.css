@@ -24,7 +24,7 @@
   justify-content: space-between;
 }
 .img-box {
-  width: 40%;
+  /* width: 40%; */
 }
 .container .box .img-box img {
   width: 100%;
